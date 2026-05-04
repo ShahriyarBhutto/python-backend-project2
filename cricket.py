@@ -17,5 +17,5 @@ class Captain(Cricketer):
     def __init__(self, name, runs=0):
         super().__init__(name, runs)
     def toss_win(self):
-        return "Toss win@"
+        return "Toss win!"
         
